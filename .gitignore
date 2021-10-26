@@ -1,0 +1,7 @@
+dist
+build
+design_baselines.egg-info
+sftp-config.json
+.DS_Store
+design_baselines/.DS_Store
+RoMA/
