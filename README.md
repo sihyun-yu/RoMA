@@ -1,6 +1,6 @@
 # RoMA: Robust Model Adaptation for Offline Model-based Optimization
 
-Implementation of RoMA: Robust Model Adaptation for Offline Model-based Optimization (NeurIPS 2021).
+Implementation of [RoMA: Robust Model Adaptation for Offline Model-based Optimization (NeurIPS 2021)](http://arxiv.org/abs/2110.14188).
 
 
 ## Setup
